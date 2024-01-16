@@ -1,0 +1,21 @@
+Backed up /home/hafsahsc/.ssh/id_rsa to /home/hafsahsc/.ssh/id_rsa.1704033045
+Backed up /home/hafsahsc/.ssh/id_rsa.pub to /home/hafsahsc/.ssh/id_rsa.1704033045.pub
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/hafsahsc/.ssh/id_rsa.
+Your public key has been saved in /home/hafsahsc/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:whJdf+8j86NpuJGMneqJhzjDTKRuXq6DleArH5Cg1UU 
+The key's randomart image is:
++---[RSA 2048]----+
+|     .E .        |
+|   . o . .       |
+|. . o .   . .    |
+|+o  .o     . .   |
+|=. +. o S     .  |
+| o+ .. . + o .   |
+| +o+.. .. *.o o  |
+|o.++* ...o...=.. |
+|.++o.o.o+ .oo... |
++----[SHA256]-----+
